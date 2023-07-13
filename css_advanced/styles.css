@@ -1,0 +1,44 @@
+/* Styles for the header section */
+header {
+    background-color: #f1f1f1;
+    padding: 20px;
+  }
+  
+  nav {
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+  }
+  
+  nav a {
+    margin: 0 10px;
+    text-decoration: none;
+  }
+  
+  /* Styles for the banner section */
+  div > h1 {
+    color: #333;
+    font-size: 24px;
+  }
+  
+  div > p {
+    color: #666;
+  }
+  
+  /* Styles for the videos section */
+  div > div > h3 {
+    color: #555;
+  }
+  
+  div > div > p {
+    color: #777;
+  }
+  
+  /* Styles for the footer section */
+  footer {
+    background-color: #222;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+  }
+  
